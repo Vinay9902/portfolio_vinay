@@ -276,7 +276,7 @@ export const Bio = {
   
   export const projects = [
     {
-      id: 9,
+      id: 0,
       title: "Online Learning Management System",
       date: "Jun 2023 - Jul 2023",
       description:
@@ -297,7 +297,7 @@ export const Bio = {
       webapp: "",
     },
     {
-      id: 0,
+      id: 1,
       title: "Library Management System",
       date: "Aug 2022 - Sept 2022",
       description:
@@ -308,6 +308,20 @@ export const Bio = {
       category: "GUI",
       github: "https://github.com/Vinay9902/library-management-system",
       webapp: "",
+      
+    },
+    {
+      id: 2,
+      title: "WeHire - online job portal",
+      date: "Dec 2023 - Jan 2024",
+      description:
+        "This is a online job portal website to search jobs with relevent skills required and apply for desired company!",
+      image:
+        "https://www.iihglobal.com/wp-content/uploads/2019/12/job-portal-online-platform-2.jpg",
+      tags: ["ReactJs", "Firebase", "Tailwind CSS", "Javascript", "Netlify"],
+      category: "web app",
+      github: "https://github.com/Vinay9902/hiring_portal_challenge_codepth.",
+      webapp: "https://wehire-job-portal.netlify.app",
       
     },
 
