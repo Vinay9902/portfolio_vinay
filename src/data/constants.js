@@ -256,7 +256,7 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://www.syk-nagpur.org/images/syk-logo.png",
       school: "Sevasadan Junior College, Nagpur",
       date: "Apr 2019 - Apr 2020",
       grade: "82.77%",
